@@ -1,4 +1,4 @@
- 04月30日 | 最新V2ray/Shadowrocket/SSR/Clash高速免费节点，最高速度16.3M/S 免费Clash机场订阅地址  更新时间 2025-04-30 20:36:02
+ 04月30日 | 最新V2ray/Shadowrocket/SSR/Clash高速免费节点，最高速度16.3M/S 免费Clash机场订阅地址  更新时间 2025-04-30 20:46:02
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href='https://clashfreenode.com' target='_blank'>点击跳转</a>
 
 ## clash使用教程：
@@ -25,7 +25,11 @@
 
 * 稳定 - 稳定运营二年多，海外团队。
 
-购买套餐时输入【fuuu.cloud】享7折优惠，点击进入[福云机场官网](https://fuuu.cloud)。
+购买套餐时输入【fuuu.cloud】优惠码，可享7折优惠，折后低至8元/月。
+
+🎁 五一劳动节特惠活动：5月1日至5月20日期间，购买季套餐赠送月套餐，购买年套餐赠送季套餐。
+
+点击进入[福云机场官网](https://fuuu.cloud)。
 
 ## 工具推荐
 
