@@ -1,4 +1,4 @@
- 05月29日 | 最新V2ray/Shadowrocket/SSR/Clash高速免费节点，最高速度16.3M/S 免费Clash机场订阅地址  更新时间 2025-05-29 23:56:02
+ 05月30日 | 最新V2ray/Shadowrocket/SSR/Clash高速免费节点，最高速度16.3M/S 免费Clash机场订阅地址  更新时间 2025-05-30 00:06:02
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href='https://clashfreenode.com' target='_blank'>点击跳转</a>
 
 ## clash使用教程：
@@ -9,11 +9,11 @@
 
 ### Clash订阅链接
 
-- https://clashfreenode.com/feed/clash-20250529.yaml
+- https://clashfreenode.com/feed/clash-20250530.yaml
 
 ### V2ray订阅链接
 
-- https://clashfreenode.com/feed/v2ray-20250529.txt 
+- https://clashfreenode.com/feed/v2ray-20250530.txt 
 
 ## 更多clash节点订阅 ：
 
